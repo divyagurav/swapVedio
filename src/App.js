@@ -9,38 +9,32 @@ import { Navigation, Pagination, Scrollbar, A11y } from "swiper/modules";
 const data = [
   {
     id: 1,
-    username: "Shudrak",
-    testimonial: "lorem ipsum.",
+
     url: "https://www.youtube.com/embed/NSAOrGb9orM?si=YxZ3LfwM8o9FWofz",
   },
   {
     id: 2,
-    username: "adrik",
-    testimonial: "lorem ipsum.",
+
     url: "https://www.youtube.com/embed/hjOEj4jcYmU?si=k8yE8cLO9u4Big__",
   },
   {
     id: 3,
-    username: "divya",
-    testimonial: "lorem ipsum.",
+
     url: "https://www.youtube.com/embed/nqye02H_H6I?si=DaIiY3JU4j7_-rEa",
   },
   {
     id: 4,
-    username: "shankar",
-    testimonial: "lorem ipsum.",
+
     url: "https://www.youtube.com/embed/3Q_9FElbiEg?si=9vrFbJsgUv-CIs4F",
   },
   {
     id: 5,
-    username: "neha",
-    testimonial: "lorem ipsum.",
+
     url: "https://www.youtube.com/embed/l5w_k0Qf31A?si=qKF1RWmCSKLO1mNd",
   },
   {
     id: 6,
-    username: "harish",
-    testimonial: "lorem ipsum.",
+
     url: "https://www.youtube.com/embed/AloRSoJYXXc?si=KP-z1djYAyUK2nch",
   },
 ];
